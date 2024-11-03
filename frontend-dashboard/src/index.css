@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .glass-card {
+    @apply bg-gradient-to-br from-white/[0.05] to-white/[0.02] backdrop-blur-xl border border-white/10 shadow-xl;
+  }
+
+  .stats-value {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-emerald-400 to-blue-400;
+  }
+}
