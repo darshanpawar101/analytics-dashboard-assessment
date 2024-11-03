@@ -7,8 +7,8 @@ import { VehicleDistrictAreaBarChart } from "./components/charts/VehicleDistrict
 import { VehicleElectricUsageBarChart } from "./components/charts/VehicleElectricUsageBarChart";
 import { VehicleMSRPLineChart } from "./components/charts/VehicleMSRPLineChart";
 
-// import evData from "./data/evParsedData.json";
-import evData from "./data/evParsedDataLarge.json";
+import evData from "./data/evParsedData.json";
+// import evData from "./data/evParsedDataLarge.json";
 
 import {
   getBarChartData,
