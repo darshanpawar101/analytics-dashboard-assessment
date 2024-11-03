@@ -5,7 +5,7 @@ import { VehicleDistributionChart } from "./components/charts/VehicleDistributio
 import { VehicalDistributionPieChart } from "./components/charts/VehicalDistributionPieChart";
 import { VehicleDistrictAreaBarChart } from "./components/charts/VehicleDistrictAreaBarChart";
 import { VehicleElectricUsageBarChart } from "./components/charts/VehicleElectricUsageBarChart";
-import { VehicleMSRPLineChart } from "./components/charts/vehicleMSRPLineChart";
+import { VehicleMSRPLineChart } from "./components/charts/VehicleMSRPLineChart";
 
 // import evData from "./data/evParsedData.json";
 import evData from "./data/evParsedDataLarge.json";
